@@ -1,0 +1,4 @@
+spade==3.3.2
+aioxmpp==0.13.3
+python-socketio==5.11.3
+aiohttp==3.8.4
